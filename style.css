@@ -44,6 +44,23 @@ ul {
     min-height: 613px;
     height: 100%;
     background: url(img/fon.png) no-repeat;
+    margin-top: 108px;
+}
+
+.content2 {
+    max-width: 920px;
+    width: 100%;
+    min-height: 613px;
+    height: 100%;
+    background: url(img/fon2.png) no-repeat;
+    margin-top: 34px;
+}
+
+.content3 {
+    max-width: 927px;
+    width: 100%;
+    min-height: 442px;
+    height: 100%;
 }
 
 .title {
@@ -66,3 +83,127 @@ ul {
     padding: 252px 115px 252px 115px;
     text-align: center;
 }
+
+
+.img-fon1 {
+    background: url(img/fon3.png) no-repeat;
+    max-width: 443px;
+    width: 100%;
+    min-height: 443px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-fon2 {
+    background: url(img/fon4.png) no-repeat;
+    max-width: 443px;
+    width: 100%;
+    min-height: 443px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-fon1__text {
+    max-width: 332px;
+    width: 100%;
+    min-height: 56px;
+    height: 100%;
+    text-align: center;
+}
+
+.img-fon1__title {
+    font-weight: 400;
+    font-size: 23px;
+    color: #fff;
+}
+
+.img-fon1__txt {
+    font-weight: 400;
+    font-size: 12px;
+    color: #fff;
+}
+
+.flex {
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.content4__cards {
+    max-width: 920px;
+    width: 100%;
+    min-height: 281px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top:35px;
+}
+
+
+.card1 {
+    max-width: 284px;
+    width: 100%;
+    min-height: 284px;
+    height: 100%;
+    background: url(img/fon5.png) no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card2 {
+    max-width: 284px;
+    width: 100%;
+    min-height: 284px;
+    height: 100%;
+    background: url(img/fon6.png) no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card3 {
+    max-width: 284px;
+    width: 100%;
+    min-height: 284px;
+    height: 100%;
+    background: url(img/fon7.png) no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1__text {
+    max-width: 213px;
+    width: 100%;
+    min-height: 42px;
+    height: 100%;
+    text-align: center;
+}
+
+.card1__title {
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+}
+
+.card1__txt {
+    font-weight: 400;
+    font-size: 13px;
+    color: #fff;
+}
+
+.footer__flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 39px;
+    padding-top: 131px;
+}
+
+
